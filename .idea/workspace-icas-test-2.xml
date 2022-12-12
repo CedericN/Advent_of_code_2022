@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Advent_of_code" targetName="Day04" />
+      <config projectName="Advent_of_code" targetName="Day05" />
+      <config projectName="Advent_of_code" targetName="Day02" />
+      <config projectName="Advent_of_code" targetName="Day03" />
+      <config projectName="Advent_of_code" targetName="Day08" />
+      <config projectName="Advent_of_code" targetName="Day09" />
+      <config projectName="Advent_of_code" targetName="Day06" />
+      <config projectName="Advent_of_code" targetName="Day07" />
+      <config projectName="Advent_of_code" targetName="Day11" />
+      <config projectName="Advent_of_code" targetName="0_Template" />
+      <config projectName="Advent_of_code" targetName="Day01" />
+      <config projectName="Advent_of_code" targetName="Day10" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74d78737-fedd-4c44-a128-57126e9afb30" name="Changes" comment="Day 11" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IXWY4ZLNrt2tw2tbOqjYNb0jkv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Nijssen_Cederic/OneDrive/Documents/advent_of_code/2022&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Nijssen_Cederic\OneDrive\Documents\advent_of_code\2022" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Day11">
+    <configuration name="0_Template" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="0_Template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="0_Template">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day06" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day09" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Advent_of_code" TARGET_NAME="Day11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Advent_of_code" RUN_TARGET_NAME="Day11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.0_Template" />
+      <item itemvalue="CMake Application.Day01" />
+      <item itemvalue="CMake Application.Day02" />
+      <item itemvalue="CMake Application.Day03" />
+      <item itemvalue="CMake Application.Day04" />
+      <item itemvalue="CMake Application.Day05" />
+      <item itemvalue="CMake Application.Day06" />
+      <item itemvalue="CMake Application.Day07" />
+      <item itemvalue="CMake Application.Day08" />
+      <item itemvalue="CMake Application.Day09" />
+      <item itemvalue="CMake Application.Day10" />
+      <item itemvalue="CMake Application.Day11" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74d78737-fedd-4c44-a128-57126e9afb30" name="Changes" comment="" />
+      <created>1670328454886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670328454886</updated>
+      <workItem from="1670328456261" duration="2786000" />
+      <workItem from="1670663504899" duration="190000" />
+      <workItem from="1670663708067" duration="54000" />
+      <workItem from="1670663763692" duration="3362000" />
+      <workItem from="1670748305977" duration="8502000" />
+      <workItem from="1670766826610" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="Day 6">
+      <created>1670332400098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670332400098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 10">
+      <created>1670667145123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670667145123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 11">
+      <created>1670756912523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670756912523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 6" />
+    <MESSAGE value="Day 10" />
+    <MESSAGE value="Day 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 11" />
+  </component>
+</project>

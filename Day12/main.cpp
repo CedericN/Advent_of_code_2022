@@ -11,6 +11,8 @@ int main() {
     Map map("input.txt");
 
     cout << "part 1: " << map.getSteps() << endl;
+    cout << "part 2: ";
+    map.getTrail();
 
     return 0;
 }

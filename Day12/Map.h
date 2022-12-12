@@ -10,6 +10,7 @@
 #include <iostream>
 #include <cmath>
 #include <algorithm>
+#include <list>
 
 using namespace std;
 
@@ -18,6 +19,7 @@ public:
     Map(const string& inputFile);
 
     uint32_t getSteps();
+    uint32_t getTrail();
 
 private:
     struct newStep{
@@ -43,20 +45,18 @@ private:
             return nS.pos == pos;
         }
     };
-    void step();
-    static bool getVisited(const vector<uint32_t> &visited, pair<uint8_t, uint8_t> pos){return (visited.at(pos.second) >> pos.first) & 0b1;}
-    static void setVisited(vector<uint32_t> &visited, pair<uint8_t, uint8_t> pos){visited.at(pos.second) |= 0b1 << pos.first;}
+
+    void calculatePath();
+
     static uint32_t getDistance(pair<uint8_t, uint8_t> pos1, pair<uint8_t, uint8_t> pos2){return (uint32_t) pow(pos1.first - pos2.first, 2) + (uint32_t) pow(pos1.second - pos2.second, 2);}
     static bool compareNewSteps(const newStep &a, const newStep &b){return a.totalDistance > b.totalDistance;}
 
-    void printMap(pair<uint8_t, uint8_t> pos);
-
-
-    uint32_t steps;
+    uint32_t pathLenght;
 
     pair<uint8_t, uint8_t> start;
     pair<uint8_t, uint8_t> end;
     vector<vector<char>> map;
+    vector<pair<uint8_t, uint8_t>> startHike;
 };
 
 
