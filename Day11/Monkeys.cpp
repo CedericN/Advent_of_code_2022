@@ -44,13 +44,13 @@ uint64_t Monkeys::getLevelOfMonkeyBusiness(uint16_t rounds, uint8_t dropWorryLev
         if(print){cout << "round " << i + 1 << ": " << endl;}
         Round(dropWorryLevel, print);
         if(print){cout << endl;}
-        if(rounds > 100){
-            if(i%1000 == 999 || i == 19 || i == 0){
-                cout << "============ round " << i + 1 << " ============" << endl;
-                printMonkeyInspectedItems();
-                cout << endl;
-            }
-        }
+//        if(rounds > 100){
+//            if(i%1000 == 999 || i == 19 || i == 0){
+//                cout << "============ round " << i + 1 << " ============" << endl;
+//                printMonkeyInspectedItems();
+//                cout << endl;
+//            }
+//        }
     }
 
     if(print){printMonkeyInspectedItems();}
