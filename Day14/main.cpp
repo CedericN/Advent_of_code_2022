@@ -10,10 +10,10 @@ int main() {
 
     Cave cave("input.txt");
 
-    cave.printCave();
+//    cave.printCave();
 
-    cout << "part 1: " << endl << cave.fillCave() << endl;
-    cout << "part 2: " << endl << cave.fillCave(false) << endl;
+    cout << "part 1: " << cave.fillCave() << endl;
+    cout << "part 2: " << cave.fillCave(false) << endl;
 
     return 0;
 }

@@ -44,7 +44,7 @@ uint64_t Cave::fillCave(bool endlessBottom) {
         cave.at(sandStart.second).at(sandStart.first - xOffset) = sand;
     }
 
-    printCave();
+//    printCave();
     return counter;
 }
 
