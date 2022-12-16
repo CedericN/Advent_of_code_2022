@@ -10,5 +10,8 @@ int main() {
 
     Valves valves("input.txt");
 
+    cout << "part 1: " << valves.getPressure(false, 30) << endl;
+    cout << "part 2: " << valves.getPressure(true, 26) << endl;
+
     return 0;
 }
